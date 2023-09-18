@@ -72,7 +72,7 @@ body a {
 }
 
 body a:hover {
-    color: #688ce8;
+    color: #d5ca03 ;
 }
 
 body p,
@@ -492,7 +492,7 @@ a.button:hover {
 
 body .sm-clean a:hover,
 body .sm-clean li.active a {
-    color: #688ce8;
+    color: #fff306;
 }
 
 .sm-clean li {
@@ -1217,7 +1217,7 @@ ul.milestone-holder .milestone-num-k:after {
 .pricing-table .pricing-holder {
     color: #fff;
     text-align: center;
-    background-color: #04a704;
+    background-color: #0fcf00;
     padding-bottom: 45px;
     margin-bottom: 20px;
 }
@@ -1482,7 +1482,7 @@ ul.milestone-holder .milestone-num-k:after {
     width: 10%;
     height: 10px;
     transition: width .7s;
-    background-color: #688ce8;
+    background-color: #d5ca03;
     max-width: 100%;
 }
 
@@ -1541,7 +1541,7 @@ ul.milestone-holder .milestone-num-k:after {
 }
 
 .timeline-holder li:hover .marker {
-    background-color: #006d00;
+    background-color: #d5ca03 ;
 }
 
 .timeline-holder li:nth-child(2n) {
@@ -1616,7 +1616,9 @@ ul.milestone-holder .milestone-num-k:after {
     margin-bottom: 0;
 }
 
-
+#contact{
+    background-color: #000000;
+}
 /* ===================================
     13. Contact Section CSS
 ====================================== */
@@ -1689,7 +1691,7 @@ p.contact-submit-holder {
 }
 
 .contact-submit-holder:hover input {
-    color: #688ce8;
+    color: #d5ca03;
 }
 
 .contact-submit-holder:hover:after {
