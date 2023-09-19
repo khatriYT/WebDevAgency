@@ -54,7 +54,7 @@ body {
     font-size: 16px;
     line-height: 1.8;
     font-weight: 400;
-    color: #cfd6e3;
+    color: #ffffff;
     background-color: #000000
     ;
     overflow-x: hidden;
@@ -204,7 +204,7 @@ a.button:hover {
     height: 2px;
     width: 100%;
     transition: .35s ease-out;
-    background-color: #cfd6e3;
+    background-color: #ffffff;
 }
 
 .coco-button:hover:before {
@@ -377,7 +377,7 @@ a.button:hover {
     top: 0;
     position: fixed;
     -webkit-transform: translateZ(0);
-    background-color: #151c28;
+    background-color: #000000;
     transition: background-color .3s linear;
 }
 
@@ -1165,7 +1165,7 @@ ul.milestone-holder .milestone-num-k:after {
     height: 2px;
     width: 100%;
     transition: .35s ease-out;
-    background-color: #cfd6e3;
+    background-color: #fff;
 }
 
 .more-posts-portfolio:hover {
@@ -1217,7 +1217,7 @@ ul.milestone-holder .milestone-num-k:after {
 .pricing-table .pricing-holder {
     color: #fff;
     text-align: center;
-    background-color: #0fcf00;
+    background-color: #27B53A;
     padding-bottom: 45px;
     margin-bottom: 20px;
 }
@@ -1299,7 +1299,7 @@ ul.milestone-holder .milestone-num-k:after {
 }
 
 .pricing-table a {
-    color: #cfd6e3;
+    color: #fff;
     font-weight: 700;
     font-size: 18px;
     line-height: 30px;
@@ -1314,7 +1314,7 @@ ul.milestone-holder .milestone-num-k:after {
     height: 2px;
     width: 100%;
     transition: .35s ease-out;
-    background-color: #cfd6e3
+    background-color: #fff
 }
 
 .pricing-table a:hover:before {
@@ -1466,7 +1466,7 @@ ul.milestone-holder .milestone-num-k:after {
 .skill {
     width: 63%;
     height: 10px;
-    background-color: #cfd6e3
+    background-color: #9efa87
 }
 
 .skill-text {
@@ -1635,7 +1635,7 @@ ul.milestone-holder .milestone-num-k:after {
     font-size: 14px;
     line-height: 25px;
     font-weight: 500;
-    color: #cfd6e3;
+    color: #fff;
     background-color: transparent;
     width: 100%;
     height: 28px;
@@ -1668,7 +1668,7 @@ p.contact-submit-holder {
     height: 2px;
     width: 100%;
     transition: .35s ease-out;
-    background-color: #cfd6e3;
+    background-color: #fff;
 }
 
 .contact-form input[type=submit] {
@@ -1735,7 +1735,7 @@ body.blog .site-content {
 }
 
 .blog-item-holder a {
-    color: #cfd6e3;
+    color: #fff;
     overflow: hidden;
     display: block;
 }
@@ -1775,7 +1775,7 @@ body.blog .site-content {
 }
 
 .entry-info a {
-    color: #688ce8;
+    color: #fff;
 }
 
 .entry-info li {
@@ -1839,7 +1839,7 @@ ul.cat-links>li:last-child:after {
     word-wrap: break-word;
     padding: 0;
     margin: 0 auto;
-    color: #cfd6e3;
+    color: #fff;
 }
 
 .single .attachment-post-thumbnail {
@@ -1862,7 +1862,7 @@ ul.cat-links>li:last-child:after {
 }
 
 blockquote {
-    background: #688ce8;
+    background: #27B53A;
     color: #fff;
     font-weight: 600;
     font-size: 22px;
@@ -1886,7 +1886,7 @@ blockquote {
     position: absolute;
     width: 2px;
     height: 100%;
-    background-color: #cfd6e3;
+    background-color: #fff;
     left: 50%;
     margin-left: -2px;
 }
@@ -1914,7 +1914,7 @@ blockquote {
 
 .nav-previous a,
 .nav-next a {
-    color: #cfd6e3;
+    color: #fff;
     font-size: 20px;
     line-height: 140%;
     word-break: break-word;
@@ -1960,7 +1960,7 @@ footer ul {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center top;
-    background-color: #021619;
+    background-color: #000000;
 }
 
 .footer-content {
@@ -1969,18 +1969,19 @@ footer ul {
 
 .footer-logo {
     position: relative;
-    margin-top: -140px;
+    /* margin-top: -140px; */
 }
 
 .footer-logo img {
-    width: 57px;
-    height: 122px;
-    margin-bottom: 70px;
+    width: 50%;
+    /* height: 100px; */
+    /* margin-bottom: 70px; */
 }
 
 .footer-mail {
     font-family: 'Roboto', sans-serif;
-    font-size: 42px;
+    font-size: 25px;
+    margin-top: 30px;
     margin-bottom: 20px;
     line-height: 100%;
     font-weight: 700;
@@ -1988,9 +1989,9 @@ footer ul {
 
 .footer-phone {
     font-family: 'Roboto', sans-serif;
-    font-size: 26px;
+    font-size: 20px;
     line-height: 100%;
-    margin-bottom: 55px;
+    margin-bottom: 45px;
 }
 
 .social {
@@ -2016,17 +2017,17 @@ body .social a:hover {
 .footer .social-holder a {
     font-size: 30px;
     margin: 0 33px;
-    color: #cfd6e3;
+    color: #fff;
     transition: all .3s;
 }
 
 .footer .social-holder a:hover {
-    color: rgba(104,140,232,.8);
+    color: #d6f306;
 }
 
 .footer,
 .footer a{
-    color: #cfd6e3;
+    color: #fff;
 }
 
 .copyright-holder {
