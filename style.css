@@ -133,7 +133,7 @@ body pre {
     font-size: 28px;
     font-weight: 600;
     line-height: 1.5em;
-    margin-bottom: 70px;
+    /* margin-bottom: 70px; */
     max-width: 1000px;
     text-align: center;
 }
@@ -752,6 +752,7 @@ h1.entry-title {
     background-color: #00c300d2;
     padding: 50px;
     margin-top: -50px;
+    min-height: 450px;
    
 }
 
@@ -1211,7 +1212,7 @@ ul.milestone-holder .milestone-num-k:after {
     margin: 70px 0 0;
 }
 .pricing-table.populated {
-    box-shadow: 0px 0px 100px 0px #09132b;
+    box-shadow: 0px 0px 100px 0px #000000;
 }
 
 .pricing-table .pricing-holder {
